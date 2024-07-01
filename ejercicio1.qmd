@@ -5,6 +5,6 @@ format: html
 
 ```{bash}
 
-echo "saludo"
+echo "saludo conflicto"
 
 ```
